@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  I am a dedicated, enthusiastic, and skilled engineer in Electrical Power Engineering, with a passion for software engineering. In my free time, I enjoy learning and programming software, hoping to realize my potential as a software engineer.</h3>
+<h3 align="left">👩‍💻  I am currently employed at &DINE as a Junior Software Developer, where I am gaining hands-on experience and further developing my skills in software engineering.</h3>
 
 ###
 
