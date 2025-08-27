@@ -8,15 +8,15 @@
 
 <p align="left">- 🔭Current Role – Junior Software Developer at &Dine
 
-                     - Contributing to the development of a commercial platform using Node.js (TypeScript) for backend, MySQL for database management, and Vue.js/NuxtJS for frontend.
+Contributing to the development of a commercial platform using Node.js (TypeScript) for backend, MySQL for database management, and Vue.js/NuxtJS for frontend.
 
-                     - Collaborating with the team in Agile sprints, participating in code reviews, and following clean coding practices.
+Collaborating with the team in Agile sprints, participating in code reviews, and following clean coding practices.
 
-                     - Working with REST APIs design and integration, ensuring scalability and maintainability.
+Working with REST APIs design and integration, ensuring scalability and maintainability.
 
-                     - Assisting in AWS-based deployments and troubleshooting in cloud environments.
+Assisting in AWS-based deployments and troubleshooting in cloud environments.
 
-                     - Supporting frontend development with responsive SCSS-based styling and reusable components.<br>- 📚 </p>
+Supporting frontend development with responsive SCSS-based styling and reusable components.<br>- 📚 </p>
 
 ###
 
